@@ -10,7 +10,7 @@ var config = {
     storageBucket: "<PROJECT_ID>.appspot.com",
     messagingSenderId: "<SENDER_ID>",
     appId: "<APP_ID>"
-  }
+}
 
 firebase.initializeApp(config)
 
